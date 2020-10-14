@@ -1,4 +1,4 @@
-## Interface: 60000
+## Interface: 40000
 ## Title: KickBot
 ## Author: Tudi
 ## Version: 4.0.1
